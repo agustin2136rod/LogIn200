@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogIn200", "LogIn200\LogIn200.csproj", "{44961450-024F-47C2-B663-4DCE760D4998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login200-D", "Login200-D\Login200-D.csproj", "{1DD68214-1612-4977-AC1C-B55B5CE4D7B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{44961450-024F-47C2-B663-4DCE760D4998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44961450-024F-47C2-B663-4DCE760D4998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44961450-024F-47C2-B663-4DCE760D4998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD68214-1612-4977-AC1C-B55B5CE4D7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD68214-1612-4977-AC1C-B55B5CE4D7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD68214-1612-4977-AC1C-B55B5CE4D7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD68214-1612-4977-AC1C-B55B5CE4D7B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91AA4F5A-7258-4542-B15E-C8E7E3679E8A}
 	EndGlobalSection
 EndGlobal
