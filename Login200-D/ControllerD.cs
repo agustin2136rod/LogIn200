@@ -23,10 +23,13 @@ namespace Login200_D
 
     class ControllerD
     {
+        //done
         private StateObserver observer;
 
+        //done
         CredentialsD model;
 
+        //in class
         public ControllerD(CredentialsD m)
         {
             this.model = m;

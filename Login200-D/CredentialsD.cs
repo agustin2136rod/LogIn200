@@ -8,6 +8,7 @@ namespace Login200_D
 {
     class CredentialsD
     {
+        //in class
         /// <summary>
         /// The only user name in the Credentials DB
         /// </summary>

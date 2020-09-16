@@ -12,10 +12,11 @@ namespace Login200_D
 {
     public partial class Form1 : Form
     {
+        //in class
         private InputHandler _inHandler;
 
 
-
+        //in class
         public Form1(InputHandler ih)
         {
             InitializeComponent();
@@ -65,7 +66,7 @@ namespace Login200_D
         }
 
 
-
+        //in class
         private void uxLoginBtn_Click(object sender, EventArgs e)
         {
             String un = tbUserName.Text;
